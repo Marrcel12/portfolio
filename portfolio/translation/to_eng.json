@@ -1,0 +1,23 @@
+{
+ 
+  "start": "Start",
+  "about": "about",
+  "services-text":"services",
+  "my_work":"my Work",
+  "contact-menu":"contact",
+  "greeting":"I would like to welcome you to my part of the internet. My name is Marcel Kamiński, I create websites and programs in Python",
+  "about_me":"<p> I am a student of <b> Computer Science High School </b>, I have always connected the future with computer science, hence this choice about school. <b> Creating websites </b> I have been interested in for 2 years. My thing is <b> JavaScript and python </b>. Currently working on solutions where I will use machine learning and several other projects, including the "Recycle" application for the <b class = "text-warning"> Orange foundation and a system that automates work in the field oflocal database - Ebay - Amazon for a company in Ireland. I am currently looking for an internship / job to learn about a developer job in a company. I am positive and very proactive, and my dream is to visit Perth. It is a beautiful city and a great technology center. New ideas are constantly born in my head, I have already had several presentations of my innovations behind me - one of them took the first place in the "Youth Innovations" competition. I participated in internships in the company <b class = "text-success"> Microsoft </b>, I got a grant from the Arte foundation, a 'Sapere Auso' scholarship and I take part in the Olympics (Digital and Business).</ Span>",
+  "project_managment":"project managment",
+  "description_web_codnig":"I offer building responsive websites.",
+  "description_Python_django": "I offer construction of simple websites, online stores or web applications in Python.",
+  "description_Python":"I offer construction of simple systems in Python. Which, for example, can automate manual operations.",
+  "more":"If you want to know more",
+  "write":"write to me",
+  "project":"Projects",
+  "Website":"Website",
+  "Places": "Places of practice",
+  "Code": "Code lines written :D",
+  "Show_work": "I have participated in many projects. Here are some of them",
+  "all":"All",
+  "other":"inne"
+}
